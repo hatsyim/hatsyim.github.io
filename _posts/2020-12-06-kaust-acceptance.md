@@ -135,7 +135,7 @@ Tanggal 1 Maret 2020, surel cinta yang ditunggu-tunggu datang.
 ```markdown
 01/03/2020
 
-Dear Mohammad Taufik:
+Dear Mr. Mohammad Taufik:
 
 Congratulations! I am delighted to offer you admissions to the MS/PhD degree
 program in Earth Science and Engineering at King Abdullah University of
