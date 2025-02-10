@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Projects
 permalink: /projects/
@@ -56,4 +56,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 
-</div>
+</div> -->
