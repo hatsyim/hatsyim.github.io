@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem 'mini_racer'
   gem 'unicode_utils'
   gem 'webrick'
+  gem 'ruby', '~> 3.2.1'
 end
 
 group :other_plugins do
