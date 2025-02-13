@@ -13,14 +13,13 @@
   contents:
     - title: PhD
       institution: King Abdullah University of Science and Technology
-      year: 2022 - Present
+      year: 2022 - 2025
       description:
-        - Physics-informed neural networks for tomographic applications.
+        - Physics-informed data-driven frameworks for geophysical inverse problems.
     - title: MSc
       institution: King Abdullah University of Science and Technology
       year: 2020 - 2021
       description:
-        - Physics-informed neural networks for forward modeling in global Earth scale applications.
         - Machine learning in geosciences track.
     - title: BSc
       institution: Bandung Institute of Technology
@@ -31,6 +30,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Intern Geophysics
+      institution: Occidental Petroleum Corporation
+      year: Dec 2024 - Mar 2025
+      description:
+        - Bayesian full waveform inversion using deep generative models.
     - title: Machine Learning Engineer Intern
       institution: Cloud4C
       year: Jun 2022 - Aug 2022

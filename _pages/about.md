@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Doing PhD at <a href='https://www.kaust.edu.sa/en'>KAUST</a>.
+subtitle: Enjoying PhD at <a href='https://www.kaust.edu.sa/en'>KAUST</a>.
 
 profile:
   align: right
