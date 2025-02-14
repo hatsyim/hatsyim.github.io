@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: Reflection on KAUST's acceptance
 date: 2020-12-06 16:40:16
@@ -163,4 +163,4 @@ Niat tidak hanya terjadi di awal, tetapi juga senantiasa diperbaiki dan diusahak
 
 Ditulis di tengah kegaduhan wabah COVID-19, Bekasi, Jawa Barat, Indonesia.
 
-**Mohon sebarkan tulisan ini jika dapat bermanfaat bagi orang lain.**
+**Mohon sebarkan tulisan ini jika dapat bermanfaat bagi orang lain.** -->
